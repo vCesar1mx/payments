@@ -1,41 +1,27 @@
 <div class="bg-image"></div>
 
 <div class="bg-text">
-  <h1>I am John Doe</h1>
-  <p>And I'm a Photographer</p>
+  <h1>Notice !</h1>
+  <p>Your need pay to vCesar, for continue use of system</p>
 </div>
 
 <style>
 body, html {
   height: 100%;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 
 * {
   box-sizing: border-box;
 }
 
-.bg-image {
-  /* The image used */
-  background-image: url("photographer.jpg");
-
-  /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 /* Position text in the middle of the page/image */
 .bg-text {
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-  color: white;
+  color: red;
   font-weight: bold;
   border: 3px solid #f1f1f1;
   position: absolute;
