@@ -1,4 +1,4 @@
-<div class="bg-image"></div>
+<!-- <div class="bg-image"></div>
 
 <div class="bg-text">
   <h1>Notice !</h1>
@@ -34,3 +34,4 @@
   text-align: center;
 }
 </style>
+--!>
