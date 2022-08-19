@@ -6,7 +6,7 @@
 </div>
 
 <style>
-body, html {
+nav, container{
   height: 100%;
     filter: blur(8px);
   -webkit-filter: blur(8px);
